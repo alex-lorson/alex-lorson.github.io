@@ -29,7 +29,7 @@ Work experience
   * University of Potsdam (department of Psycholinguistics)
   * BA seminar: Introduction to Language Processing
   
-* Fall 2014/2015: Research Assistant
+* 2014/2015: Research Assistant
   * Institute of German Language (Mannheim)
   * Duties included: Editing the leading German pronunciation dictionary (DUDEN)
   
