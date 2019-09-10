@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-UK"
 title                    : "Alexandra Lorson"
-#title_separator          : "-"
-#name                     : &name "Alexandra Lorson"
-#description              : &description "personal description"
+title_separator          : "-"
+name                     : &name "Alexandra Lorson"
+description              : &description "personal description"
 url                      : https://alex-lorson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alex-lorson/alex-lorson.github.io"
