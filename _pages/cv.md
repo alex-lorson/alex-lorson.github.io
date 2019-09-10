@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in German Studies, University of Mannheim, 2015
+* M.S. in Linguistics, University of Potsdam, 2018
+* Ph.D in Linguistics, The University of Edinburgh, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017/2018: Research Assistant
+  * University of Potsdam (Vasishth lab)
+  * Duties included: Conducting Eye Tracking, Self-paced reading and EEG Experiments
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017/2018: Teaching Assistant
+  * University of Potsdam (department of Psycholinguistics)
+  * MSc seminar: Eyetracking in Psycholinguistic research
+
+* 2017/2018: Teaching Assistant
+  * University of Potsdam (department of Psycholinguistics)
+  * BA seminar: Introduction to Language Processing
   
-Skills
+* Fall 2014/2015: Research Assistant
+  * Institute of German Language (Mannheim)
+  * Duties included: Editing the leading German pronunciation dictionary (DUDEN)
+  
+Grants & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CHSS/PPLS research award
+  * University of Edinburgh College of Arts, Humanities and Social Science/School of Philosophy, Psychology and Language Sciences
+* PhD studentship
+  * AHRC Doctoral Training Partnership
+  * Scottish Graduate School for Arts & Humanities
 
 Publications
 ======
@@ -48,12 +53,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
