@@ -1,0 +1,1 @@
+Lorson, A., Cummins, C., & Rohde, H. (2019). [When objecting to presupposed content comes easily](http://alex-lorson.github.io/files/SemDial_When objecting to presupposed content comes easily.pdf). In Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue (SemDial).
