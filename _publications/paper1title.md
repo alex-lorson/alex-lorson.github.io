@@ -1,5 +1,6 @@
 ---
 title: "When objecting to presupposed content comes easily"
+venue: "proceedings"
 collection: publications
 ---
 
