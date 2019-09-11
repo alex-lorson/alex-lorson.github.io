@@ -9,4 +9,4 @@ author: "Alexandra Lorson"
 location: "Edinburgh, UK"
 ---
 
-[Poster](http://alex-lorson.github.io/files/alex-lorson.github.io/files/main.pdf)
+[Poster](http://alex-lorson.github.io/files/main.pdf)
