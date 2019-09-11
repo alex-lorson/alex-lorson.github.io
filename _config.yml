@@ -224,8 +224,8 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
-      share: false
+      author_profile: false
+      share: true
       comments: true
   # _portfolio
   - scope:
