@@ -1,5 +1,5 @@
 ---
-title: "Bachelor seminar: Introduction to Language Processing"
+title: "Undergraduate seminar: Introduction to Language Processing"
 collection: teaching
 type: "Undergraduate tutorial"
 permalink: /teaching/teaching2
