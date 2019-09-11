@@ -9,4 +9,4 @@ author: "Alexandra Lorson, Chris Cummins, Hannah Rohde"
 location: "London, UK"
 ---
 
-[Proceedings paper](http://alex-lorson.github.io/files/alex-lorson.github.io/files/SemDial.pdf)
+[Proceedings paper](http://alex-lorson.github.io/files/SemDial.pdf)
