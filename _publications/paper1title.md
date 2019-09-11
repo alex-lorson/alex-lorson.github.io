@@ -9,4 +9,4 @@ paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-Lorson, A., Cummins, C., & Rohde, H. (2019). [When objecting to presupposed content comes easily](http://alex-lorson.github.io/files/SemDial_When objecting to presupposed content comes easily.pdf). In Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue (SemDial).
+Lorson, A., Cummins, C., & Rohde, H. (2019). [When objecting to presupposed content comes easily](http://alex-lorson.github.io/files/SemDial.pdf). In Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue (SemDial).
