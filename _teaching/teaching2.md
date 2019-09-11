@@ -3,7 +3,7 @@ title: "Bachelor seminar: Introduction to Language Processing"
 collection: teaching
 type: "Undergraduate tutorial"
 permalink: /teaching/teaching2
-venue: "University of Potsdam, Department"
+venue: "University of Potsdam, Department of Linguistics"
 date: 2017/2018
 location: "Potsdam, Germany"
 ---
