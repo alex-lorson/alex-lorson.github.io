@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "When objecting to presupposed content comes easily"
 date: 2019-09-04
 collection: publications
 ---
