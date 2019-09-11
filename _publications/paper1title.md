@@ -1,4 +1,6 @@
 ---
+title: "Paper Title Number 2"
+date: 2019-09-04
 collection: publications
 ---
 
