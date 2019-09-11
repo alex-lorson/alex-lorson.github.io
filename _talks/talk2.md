@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/talk2
 venue: "Discourse Expectations: Theoretical, Experimental, and Computational Perspectives (DETEC)"
 date: 2019-09-28
-author: "Alexandra Lorson, Hannah Rohde, Chris Cummins"
+excerpt: "Alexandra Lorson, Hannah Rohde, Chris Cummins"
 location: "Berlin, DE"
 ---
 
