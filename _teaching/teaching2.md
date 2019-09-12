@@ -7,13 +7,4 @@ venue: "University of Potsdam, Department of Linguistics"
 date: 2017-10-17
 location: "Potsdam, Germany"
 ---
-BA seminar Introduction to Language Processing
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## BA seminar Introduction to Language Processing
