@@ -17,7 +17,7 @@ Education
 
 Grants & Awards
 ======
-* CHSS/PPLS research award
+* CHSS/PPLS Research Award
   * University of Edinburgh College of Arts, Humanities and Social Science/School of Philosophy, Psychology and Language Sciences
 * AHRC Doctoral Training Partnership
   * Scottish Graduate School for Arts & Humanities
