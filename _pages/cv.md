@@ -19,8 +19,7 @@ Grants & Awards
 ======
 * CHSS/PPLS research award
   * University of Edinburgh College of Arts, Humanities and Social Science/School of Philosophy, Psychology and Language Sciences
-* PhD studentship
-  * AHRC Doctoral Training Partnership
+* AHRC Doctoral Training Partnership
   * Scottish Graduate School for Arts & Humanities
 
 Work experience
