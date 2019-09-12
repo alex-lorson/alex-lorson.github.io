@@ -8,6 +8,6 @@ date: 2018-10-16
 location: "Potsdam, Germany"
 ---
 ## Graduate seminar: Eyetracking in Psycholinguistic research
-Teaching assistant (Postgraduate Tutorial)
-The University of Potsdam, Germany
+Teaching assistant (Postgraduate Tutorial)  
+The University of Potsdam, Germany  
 2017/2018
