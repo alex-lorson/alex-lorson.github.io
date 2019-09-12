@@ -3,7 +3,7 @@ title: "Expectations about discourse relevance can license direct objections to 
 collection: talks
 type: "Talk"
 permalink: /talks/talk2
-venue: "Discourse Expectations: Theoretical, Experimental, and Computational Perspectives (DETEC), Alexandra Lorson, Hannah Rohde, Chris Cummins,"
+venue: "Discourse Expectations: Theoretical, Experimental, and Computational Perspectives (DETEC), Alexandra Lorson, Hannah Rohde, Chris Cummins"
 date: 2019-09-28
 location: "Berlin, DE"
 ---
