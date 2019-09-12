@@ -7,4 +7,4 @@ venue: "The University of Edinburgh, Department of Linguistics and English Langu
 date: 2019-09-23
 location: "Edinburgh, UK"
 ---
-Honours course: Sociolinguistics
+## Honours course: Sociolinguistics
