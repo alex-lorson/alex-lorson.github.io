@@ -1,4 +1,4 @@
-## MSc seminar: Eyetracking in Psycholinguistic research
+## MSc seminar: Eyetracking in Psycholinguistic research ##
 
 ---
 title: "MSc seminar: Eyetracking in Psycholinguistic research"
