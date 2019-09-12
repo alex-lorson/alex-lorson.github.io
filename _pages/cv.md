@@ -17,17 +17,25 @@ Education
 
 Work experience
 ======
+* 2019/2020 (Term 2): Teaching Assistant
+  * The University of Edinburgh (Department of Linguistics and English Language)
+  * Undergraduate seminar: LEL1B (Introduction to Linguistics part II)
+  
+* 2019/2020 (Term 1): Teaching Assistant
+  * The University of Edinburgh (Department of Linguistics and English Language)
+  * Honours seminar: Sociolinguistics
+
 * 2017/2018: Research Assistant
   * University of Potsdam (Vasishth lab)
   * Duties included: Conducting Eye Tracking, Self-paced reading and EEG Experiments
 
 * 2017/2018: Teaching Assistant
-  * University of Potsdam (department of Psycholinguistics)
-  * MSc seminar: Eyetracking in Psycholinguistic research
+  * University of Potsdam (Department of Psycholinguistics)
+  * Graduate seminar: Eyetracking in Psycholinguistic research
 
 * 2017/2018: Teaching Assistant
-  * University of Potsdam (department of Psycholinguistics)
-  * BA seminar: Introduction to Language Processing
+  * University of Potsdam (Department of Psycholinguistics)
+  * Undergraduate seminar: Introduction to Language Processing
   
 * 2014/2015: Research Assistant
   * Institute of German Language (Mannheim)
