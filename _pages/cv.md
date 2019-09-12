@@ -15,6 +15,14 @@ Education
 * M.S. in Linguistics, University of Potsdam, 2018
 * Ph.D in Linguistics, The University of Edinburgh, 2022 (expected)
 
+Grants & Awards
+======
+* CHSS/PPLS research award
+  * University of Edinburgh College of Arts, Humanities and Social Science/School of Philosophy, Psychology and Language Sciences
+* PhD studentship
+  * AHRC Doctoral Training Partnership
+  * Scottish Graduate School for Arts & Humanities
+
 Work experience
 ======
 * 2019/2020 (Term 2): Teaching Assistant
@@ -40,14 +48,6 @@ Work experience
 * 2014/2015: Research Assistant
   * Institute of German Language (Mannheim)
   * Duties included: Editing the leading German pronunciation dictionary (DUDEN)
-  
-Grants & Awards
-======
-* CHSS/PPLS research award
-  * University of Edinburgh College of Arts, Humanities and Social Science/School of Philosophy, Psychology and Language Sciences
-* PhD studentship
-  * AHRC Doctoral Training Partnership
-  * Scottish Graduate School for Arts & Humanities
 
 Publications
 ======
