@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in German Studies, University of Mannheim, 2015
-* M.S. in Linguistics, University of Potsdam, 2018
+* M.Sc. in Linguistics, University of Potsdam, 2018
 * Ph.D in Linguistics, The University of Edinburgh, 2022 (expected)
 
 Grants & Awards
