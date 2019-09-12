@@ -7,4 +7,4 @@ venue: "The University of Edinburgh, Department of Linguistics and English Langu
 date: 2020-02-01
 location: "Edinburgh, UK"
 ---
-Honours course: Sociolinguistics
+## Undergraduate course: LEL1B
