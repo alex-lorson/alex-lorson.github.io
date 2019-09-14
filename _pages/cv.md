@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * B.A. in German Studies, University of Mannheim, 2015
+  * Semester abroad, Charles-University Prague, 2014
 * M.Sc. in Linguistics, University of Potsdam, 2018
+  * Semester abroad, Lund University, 2016
 * Ph.D. in Linguistics, The University of Edinburgh, 2022 (expected)
 
 Grants & Awards
@@ -47,6 +49,9 @@ Work experience
 * 2014/2015: Research Assistant
   * Institute of German Language (Mannheim)
   * Duties included: Editing the leading German pronunciation dictionary (DUDEN)
+  
+* 2014: Internship
+  * Institute of German Language (Mannheim), Departments of Lexicology and Grammar
 
 Publications
 ======
@@ -59,5 +64,13 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+   
+Academic service
+======
+* 2018/2019: Member of the Language @ Edinburgh Lunch Committee
+  * School of Informatics & School of Philosophy, Psychology and Language Sciences
+  * Organising bi-monthly poster presentation session on language-related research
 
+* 2018/2019: Member of the XPrag Conference organising Committee
+  * The University of Edinburgh
+  * Organising the 8th Experimental Pragmatics conference
