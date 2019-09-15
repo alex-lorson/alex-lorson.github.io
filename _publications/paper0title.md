@@ -1,6 +1,7 @@
 ---
 title: "Das Aussprachewörterbuch: Aussprache und Betonung von über 132 000 Wörtern und Namen"
 venue: "Berlin"
+date: 2015
 collection: publications
 ---
 
