@@ -10,5 +10,5 @@ location: "Edinburgh, UK"
 ## Honours course: Sociolinguistics
 Teaching assistant (Honours tutorial)  
 The University of Edinburgh, United Kingdom  
-2019/2020 (Term 1)
+2019/2020 (Term 1)  
 Office hour: 3pm - 4pm (DSB 1.01)
