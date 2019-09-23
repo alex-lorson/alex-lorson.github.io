@@ -67,6 +67,10 @@ Talks
    
 Academic service
 ======
+* 2019/2020: Member of the Meaning and Grammer Research Group Committee
+  * Department of Linguistics and English Language 
+  * Organising bi-weekly presentations in the areas of syntax, semantics and pragmatics
+  
 * 2018/2019: Member of the Language @ Edinburgh Lunch Committee
   * School of Informatics & School of Philosophy, Psychology and Language Sciences
   * Organising bi-monthly poster presentation session on language-related research
@@ -74,3 +78,4 @@ Academic service
 * 2018/2019: Member of the XPrag Conference organising Committee
   * The University of Edinburgh
   * Organising the 8th Experimental Pragmatics conference
+ 
