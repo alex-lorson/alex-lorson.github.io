@@ -11,4 +11,4 @@ Hi, my name is Alex and I am a Linguistics PhD student at [the University of Edi
 
 More specifically, I'm looking at how speakers structure their utterances --- given that they can choose to either presuppose or assert information --- and how their choice influences what content bits are picked up in the subsequent dialogue. Similarly, I would like to know how hearers infer whether a speaker presupposes information or not and what factors play a role in this inference process.
 
-In my freetime I love to [sketch](https://www.instagram.com/lordysart/) :)!
+In my freetime, I love to [sketch](https://www.instagram.com/lordysart/) :)
