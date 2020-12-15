@@ -2,7 +2,7 @@
 title: "Undergraduate course: Research Methods and Statistcs 2 (RMS2)"
 collection: teaching
 type: "Undergraduate tutorial"
-permalink: /teaching/teaching5
+permalink: /teaching/teaching6
 venue: "The University of Edinburgh, Department of Psychology"
 date: 2020-09-15
 location: "Edinburgh, UK"
