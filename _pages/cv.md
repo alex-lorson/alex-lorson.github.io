@@ -83,7 +83,7 @@ Talks
    
 Academic service
 ======
-* 2019/2020: Member of the Meaning and Grammer Research Group Committee
+* 2019--2021: Member of the Meaning and Grammer Research Group Committee
   * Department of Linguistics and English Language 
   * Organising bi-weekly presentations in the areas of syntax, semantics and pragmatics
   
