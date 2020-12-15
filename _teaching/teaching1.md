@@ -9,5 +9,6 @@ location: "Potsdam, Germany"
 ---
 ## Graduate seminar: Eyetracking in Psycholinguistic research
 Teaching assistant (Postgraduate Tutorial)  
-The University of Potsdam, Germany  
+The University of Potsdam, Germany \\
+Department of Linguistics \\
 2017/2018
