@@ -9,7 +9,7 @@ location: "Edinburgh, UK"
 ---
 ## Undergraduate course: Research Methods and Statistcs 2 (RMS2)
 Teaching assistant (Undergraduate Tutorial)  
-The University of Edinburgh, United Kingdom 
-Department of Psychology
+The University of Edinburgh, United Kingdom \\
+Department of Psychology \\
 2020/2021 (Term 1)
 
