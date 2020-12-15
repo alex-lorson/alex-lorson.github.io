@@ -2,7 +2,7 @@
 title: "Undergraduate course: LEL1B"
 collection: teaching
 type: "Undergraduate tutorial"
-permalink: /teaching/teaching4
+permalink: /teaching/teaching8
 venue: "The University of Edinburgh, Department of Linguistics and English Language"
 date: 2021-02-01
 location: "Edinburgh, UK"
