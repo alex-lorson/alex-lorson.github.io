@@ -12,4 +12,4 @@ Teaching assistant (Honours tutorial)
 The University of Edinburgh, United Kingdom \\
 Department of Linguistics and English Language \\
 2019/2020 (Term 1)  
-Office hour: 3pm - 4pm (DSB 1.01)
+Office hour: Tue 3pm - 4pm (DSB 1.01)
