@@ -9,5 +9,6 @@ location: "Potsdam, Germany"
 ---
 ## Undergraduate lecture: Introduction to Language Processing
 Teaching assistant (Undergraduate Tutorial)  
-The University of Potsdam, Germany  
+The University of Potsdam, Germany  \\
+Department of Linguistics \\
 2017/2018
