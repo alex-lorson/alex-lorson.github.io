@@ -10,5 +10,6 @@ location: "Edinburgh, UK"
 ## Undergraduate course: Introduction to Cognitive Science
 Teaching assistant (Undergraduate Tutorial)  
 The University of Edinburgh, United Kingdom  
+Department of Linguistics and English Language
 2020/2021 (Term 1)
 
