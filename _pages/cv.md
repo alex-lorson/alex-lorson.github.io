@@ -26,6 +26,22 @@ Grants & Awards
 
 Work experience
 ======
+* 2020/2021 (Term 2): Teaching Assistant
+  * The University of Edinburgh (Department of Linguistics and English Language)
+  * Undergraduate seminar: LEL1B (Introduction to Linguistics part II)
+  
+* 2020/2021 (Term 1): Teaching Assistant
+  * The University of Edinburgh (Department of Linguistics and English Language)
+  * Honours seminar: Pragmatics
+  
+* 2020/2021 (Term 1): Teaching Assistant
+  * The University of Edinburgh (Department of Psychology)
+  * Undergraduate seminar: Research Methods and Statistics 2
+  
+* 2020/2021 (Term 1): Teaching Assistant
+  * The University of Edinburgh (Department of Linguistics and English Language)
+  * Undergraduate seminar: Introduction to Cognitive Science
+  
 * 2019/2020 (Term 2): Teaching Assistant
   * The University of Edinburgh (Department of Linguistics and English Language)
   * Undergraduate seminar: LEL1B (Introduction to Linguistics part II)
