@@ -1,13 +1,13 @@
 ---
-title: "Undergraduate course: Pragmatics"
+title: "Honours course: Pragmatics"
 collection: teaching
-type: "Undergraduate tutorial"
+type: "Honous tutorial"
 permalink: /teaching/teaching7
 venue: "The University of Edinburgh, Department of Linguistics and English Language"
 date: 2020-09-15
 location: "Edinburgh, UK"
 ---
-## Undergraduate course: Pragmatics
+## Honours course: Pragmatics
 Teaching assistant (Undergraduate Tutorial)  
 The University of Edinburgh, United Kingdom \\
 Department of Linguistics and English Language \\
