@@ -1,9 +1,11 @@
 ---
-title: "`Du sprichst English? So do I': How German speakers align in their use of Anglicisms"
-venue: "conference"
-collection: publications
+title: "Du sprichst English? So do I: How German speakers align in their use of Anglicisms"
+collection: talks
+type: "Talk"
+permalink: /talks/talk3
+venue: "53rd Annual Meeting of the Societas Linguistica Europaea (SLE), Tobias Ungerer, Alexandra Lorson"
+date: 2019-08-26
+location: "SLE 2020 platform"
 ---
 
-2020
-===
-Ungerer T, Lorson, A. (2020). [`Du sprichst English? So do I': How German speakers align in their use of Anglicisms](http://www.sle2020.eu/downloads/BOOK%20OF%20ABSTRACTS.pdf#page=453). In book of abstracts SLE 2020.
+[Abstract](http://www.sle2020.eu/downloads/BOOK%20OF%20ABSTRACTS.pdf#page=453)
