@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk3
 venue: "53rd Annual Meeting of the Societas Linguistica Europaea (SLE), Tobias Ungerer, Alexandra Lorson"
-date: 2019-08-26
+date: 2020-08-26
 location: "SLE 2020 platform"
 ---
 
