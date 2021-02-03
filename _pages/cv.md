@@ -17,6 +17,10 @@ Education
   * Semester abroad, Lund University, 2016
 * Ph.D. in Linguistics, The University of Edinburgh, 2022 (expected)
 
+Qualifications
+======
+* Associate Fellow of the Higher Education Academy (AFHEA), The University of Edinburgh, 2021
+
 Grants & Awards
 ======
 * CHSS/PPLS Research Award
@@ -26,6 +30,10 @@ Grants & Awards
 
 Work experience
 ======
+* 2020/2021 (Term 2): Teaching Assistant for statistics
+  * The University of Edinburgh (Department of GeoSciences)
+  * Undergraduate seminar: Keymethods in Geography
+  
 * 2020/2021 (Term 2): Teaching Assistant
   * The University of Edinburgh (Department of Linguistics and English Language)
   * Undergraduate seminar: LEL1B (Introduction to Linguistics part II)
