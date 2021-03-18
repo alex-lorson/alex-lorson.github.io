@@ -4,6 +4,6 @@ venue: "journal article"
 collection: publications
 ---
 
-in press
+2021
 ===
 Lorson, A., Cummins, C., & Rohde, H. (2021). [Strategic use of (un)certainty expressions](https://doi.org/10.3389/fcomm.2021.635156). Frontiers in Communication.
