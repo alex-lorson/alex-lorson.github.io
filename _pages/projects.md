@@ -7,6 +7,6 @@ redirect_from:
   - /projects
 ---
 
-{% include base_path %}
+[Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/index.html) 
 
 
