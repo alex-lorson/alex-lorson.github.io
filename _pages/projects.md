@@ -12,7 +12,7 @@ I contributed with my art to [Dr Mirjam Eiswirth]( https://mirjameiswirth.wordpr
 
 ![](Hypo.png)
 
-## Art re-production
+## Art reproductions
 
 Once in a while I help people to digitalise their art. This means I reproduce their art as a vector graphic which makes them high resolution and reproducable. I have recently finished an art re-production for the family of a late artist.
 
