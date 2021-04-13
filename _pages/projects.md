@@ -1,12 +1,3 @@
-<head>
-<style type="text/css">
-.centerImage
-{
- text-align:center;
- display:block;
-}
-</style>
-<head>
 
 ---
 layout: archive
