@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Projects"
@@ -6,6 +5,16 @@ permalink: /projects/
 author_profile: true
 
 ---
+
+<head>
+<style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
+<head>
 
 ## Making the Invisible Visible
 
