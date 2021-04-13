@@ -12,7 +12,7 @@ I contributed with my art to [Dr Mirjam Eiswirth]( https://mirjameiswirth.wordpr
 
 <img src="Hypo.png" alt="drawing" width="200"/>
      
-![Hypo](https://user-images.githubusercontent.com/55093260/114521709-9b271c80-9c3a-11eb-941c-42f612e4c1a0.png)
+![Hypo](http://alex-lorson.github.io/picuters/Hypo.png)
 
 ## Art reproductions
 
