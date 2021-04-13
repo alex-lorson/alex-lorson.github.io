@@ -12,7 +12,6 @@ I contributed with my art to [Dr Mirjam Eiswirth]( https://mirjameiswirth.wordpr
 
 <center><img src="/images/Hypo.png" alt="comic" class="centerImage" width="600"/></center>
 
-
 ## Art reproductions
 
 Once in a while I help people to digitalise their art. This means I reproduce artwork in form of vector graphics which results in high resolution art that is reproducable. I have recently finished a reproduction for the family of a late artist.
