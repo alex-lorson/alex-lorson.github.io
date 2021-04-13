@@ -14,7 +14,7 @@ I contributed with my art to [Dr Mirjam Eiswirth]( https://mirjameiswirth.wordpr
 
 ## Art reproductions
 
-Once in a while I help people to digitalise their art. This means I reproduce artwork in form of vector graphics which results in high resolution art that is reproducable. I have recently finished a reproduction for the family of a late artist.
+Once in a while, I help people to digitalise their art. This means I reproduce artwork in form of vector graphics which results in high resolution art that is reproducable. I have recently finished a reproduction for the family of a late artist.
 
 <center><img src="/images/2faces.png" alt="reproduction" class="centerImage" width="600"/></center>
 
