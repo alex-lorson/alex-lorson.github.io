@@ -4,13 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 
-<style type="text/css">
-.centerImage
-{
- text-align:center;
- display:block;
-}
-</style>
 ---
 
 ## Making the Invisible Visible
