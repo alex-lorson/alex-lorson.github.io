@@ -30,6 +30,9 @@ Grants & Awards
 
 Work experience
 ======
+* 2021: Open Research Facilitator
+  * The University of Edinburgh (School of Philosophy, Psychology and Language Sciences)
+
 * 2020/2021 (Term 2): Teaching Assistant for statistics
   * The University of Edinburgh (Department of GeoSciences)
   * Undergraduate seminar: Keymethods in Geography
