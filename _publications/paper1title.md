@@ -1,5 +1,5 @@
 ---
-title: "Master Thesis"
+title: "Master Thesis: When objecting to presupposed content comes easily"
 venue: "proceedings"
 collection: publications
 ---
