@@ -11,4 +11,4 @@ location: "Edinburgh, UK"
 Teaching assistant (Undergraduate Tutorial)  
 The University of Edinburgh, United Kingdom  \\
 Department of Linguistics and English Language \\
-2019/2021 (Term 2)
+2019--2021 (Term 2)
