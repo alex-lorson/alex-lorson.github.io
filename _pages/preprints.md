@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Preprints"
-permalink: /preprints
+permalink: /preprints/
 author_profile: true
 ---
 
