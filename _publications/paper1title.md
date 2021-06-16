@@ -1,10 +1,8 @@
 ---
-title: "When objecting to presupposed content comes easily"
+title: "Master Thesis"
 venue: "proceedings"
 collection: publications
 ---
-
-**Master Thesis**
 
 2019
 ===
