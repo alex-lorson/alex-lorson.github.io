@@ -80,6 +80,10 @@ Work experience
 * 2014: Internship
   * Institute of German Language (Mannheim), Departments of Lexicology and Grammar
 
+Preprints
+======
+Lorson, A (2018). [The influence of world knowledge on projectivity](http://alex-lorson.github.io/files/MasterThesis.pdf). M.A. thesis, University of Potsdam
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
