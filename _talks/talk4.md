@@ -8,4 +8,4 @@ date: 2021-09-4
 location: "Paris/ AMLaP platform"
 ---
 
-[Abstract](http://www.sle2020.eu/downloads/BOOK%20OF%20ABSTRACTS.pdf#page=453)
+[Abstract](http://alex-lorson.github.io/files/amlapabstractFinal.pdf)
