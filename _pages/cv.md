@@ -78,6 +78,8 @@ Work experience
 
 Preprints
 ======
+Lorson, A., Rohde, H. & Cummins, C. (2021). [The strategic and epistemic properties of "know"](https://psyarxiv.com/8zb37). Preprint
+
 Lorson, A (2018). [The influence of world knowledge on projectivity](http://alex-lorson.github.io/files/MasterThesis.pdf). M.A. thesis, University of Potsdam
 
 Publications
