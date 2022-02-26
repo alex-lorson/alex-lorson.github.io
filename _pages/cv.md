@@ -9,6 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+Preprints
+======
+Neequaye, D. A., & Lorson, A. (2021). [How Intelligence Interviewees Mentally Identify Relevant Information](https://psyarxiv.com/bpdn2/). Preprint. 
+
+Lorson, A., Rohde, H. & Cummins, C. (2021). [The strategic and epistemic properties of "know"](https://psyarxiv.com/8zb37). Preprint.
+
+Lorson, A (2018). [The influence of world knowledge on projectivity](http://alex-lorson.github.io/files/MasterThesis.pdf). M.A. thesis, University of Potsdam
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+   
 Education
 ======
 * B.A. in German Studies, University of Mannheim, 2015
@@ -76,26 +96,6 @@ Work experience
 * 2014: Internship
   * Institute of German Language (Mannheim), Departments of Lexicology and Grammar
 
-Preprints
-======
-Neequaye, D. A., & Lorson, A. (2021). [How Intelligence Interviewees Mentally Identify Relevant Information](https://psyarxiv.com/bpdn2/). Preprint. 
-
-Lorson, A., Rohde, H. & Cummins, C. (2021). [The strategic and epistemic properties of "know"](https://psyarxiv.com/8zb37). Preprint.
-
-Lorson, A (2018). [The influence of world knowledge on projectivity](http://alex-lorson.github.io/files/MasterThesis.pdf). M.A. thesis, University of Potsdam
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-   
 Academic service
 ======
 * 2019--2021: Member of the Meaning and Grammer Research Group Committee
