@@ -8,4 +8,4 @@ date: 2022-06-15
 location: "Birmingham/ Language and Cognition at Birmingham"
 ---
 
-[Abstract](http://alex-lorson.github.io/files/LACABALorson.pdf)
+[Slides](http://alex-lorson.github.io/files/LACABALorson.pdf)
