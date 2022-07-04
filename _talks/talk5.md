@@ -1,5 +1,5 @@
 ---
-title: ``I’d like a glass of Chardonnay, too.’’: Grounding with additives.
+title: "'I’d like a glass of Chardonnay, too.: Grounding with additives'"
 collection: talks
 type: "Talk"
 permalink: /talks/talk5
