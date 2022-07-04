@@ -11,6 +11,8 @@ redirect_from:
 
 Preprints
 ======
+Lorson, A., Rohde, H. & Cummins, C. (2022). [The discursive function and presuppositional nature of additives](https://psyarxiv.com/ptvqs/). Preprint.
+
 Neequaye, D. A., & Lorson, A. (2021). [How Intelligence Interviewees Mentally Identify Relevant Information](https://psyarxiv.com/bpdn2/). Preprint. 
 
 Lorson, A., Rohde, H. & Cummins, C. (2021). [The strategic and epistemic properties of "know"](https://psyarxiv.com/8zb37). Preprint.
@@ -35,7 +37,7 @@ Education
   * Semester abroad, Charles-University Prague, 2014
 * M.Sc. in Linguistics, University of Potsdam, 2018
   * Semester abroad, Lund University, 2016
-* Ph.D. in Linguistics, The University of Edinburgh, 2022 (expected)
+* Ph.D. in Linguistics, The University of Edinburgh, 2022
 
 Qualifications
 ======
