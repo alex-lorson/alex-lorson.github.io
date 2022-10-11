@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, my name is Alex and I am a postdoctoral research fellow on the `Making Numbers Meaningful’ project lead by [Bodo Winter](https://bodowinter.com/) at [the University of Birmingham](https://www.birmingham.ac.uk/index.aspx).  
+Hi, my name is Alex and I am a postdoctoral research fellow on the `Making Numbers Meaningful’ project led by [Bodo Winter](https://bodowinter.com/) at [the University of Birmingham](https://www.birmingham.ac.uk/index.aspx).  
 
 I am doing research in the field of experimental Pragmatics, and I am interested in strategic communication; for example, I focus on how speakers’ formulation choices change depending on the communicative goals they pursue.
 
