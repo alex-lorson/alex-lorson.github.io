@@ -11,11 +11,6 @@ redirect_from:
 
 Preprints
 ======
-Lorson, A., Rohde, H. & Cummins, C. (2022). [The discursive function and presuppositional nature of additives](https://psyarxiv.com/ptvqs/). Preprint.
-
-Neequaye, D. A., & Lorson, A. (2021). [How Intelligence Interviewees Mentally Identify Relevant Information](https://psyarxiv.com/bpdn2/). Preprint. 
-
-Lorson, A., Rohde, H. & Cummins, C. (2021). [The strategic and epistemic properties of "know"](https://psyarxiv.com/8zb37). Preprint.
 
 Lorson, A (2018). [The influence of world knowledge on projectivity](http://alex-lorson.github.io/files/MasterThesis.pdf). M.A. thesis, University of Potsdam
 
