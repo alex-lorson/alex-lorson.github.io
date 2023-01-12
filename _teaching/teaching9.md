@@ -9,5 +9,6 @@ location: "Goettingen, Germany"
 ---
 ## Introduction to generalized linear modeling for linguists
 Alexandra Lorson and [Vinicius Macuch Silva](https://vini-macuch-silva.github.io/) \\
-Summer School: Corpus Annotation and Data Analysis (CAnDA)2022 \\
-The University of Goettingen, Germany \\
+Summer School: Corpus Annotation and Data Analysis (CAnDA 2022)  \\
+4 days (lecture + tutorial) \\
+The University of Goettingen, Germany
