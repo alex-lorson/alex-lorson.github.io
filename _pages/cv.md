@@ -34,12 +34,15 @@ Education
   * Semester abroad, Lund University, 2016
 * Ph.D. in Linguistics, The University of Edinburgh, 2022
 
-Qualifications
+Qualifications & Achievements
 ======
 * Associate Fellow of the Higher Education Academy (AFHEA), The University of Edinburgh, 2021
+* 3 Minute Thesis winner on school level (PPLS) 2019/2020, The University of Edinburgh
 
 Grants & Awards
 ======
+* University of Edinburgh Good Research Practice Award
+  * Category: Open research award
 * CHSS/PPLS Research Award
   * University of Edinburgh College of Arts, Humanities and Social Science/School of Philosophy, Psychology and Language Sciences
 * AHRC Doctoral Training Partnership
