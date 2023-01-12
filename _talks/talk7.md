@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk7
 venue: "TeaP 2023, Alexandra Lorson, Vinicius MacUch Silva, Bodo Winter, Christopher Hart"
-date: 2022-09-22
+date: 2023-03-26
 location: "Trier, Germany"
 ---
 
