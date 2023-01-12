@@ -7,7 +7,8 @@ venue: "RWTH Aachen University, Germany"
 date: 2022-12-13
 location: "Aachen, Germany"
 ---
-## Three seminars on linear modeling
+## Introduction to linear modeling
 RWTH Aachen University, Germany \\
 Institut fuer Anglistik, Amerikanistik und Romanistik \\
+Workshop (3 days) \\
 2022-2023
