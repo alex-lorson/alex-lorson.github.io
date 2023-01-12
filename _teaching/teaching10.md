@@ -10,5 +10,5 @@ location: "Aachen, Germany"
 ## Introduction to linear modeling
 RWTH Aachen University, Germany \\
 Institut fuer Anglistik, Amerikanistik und Romanistik \\
-Workshop (3 days) \\
+Workshop (1 lecture, 2 workshop sessions) \\
 2022-2023
