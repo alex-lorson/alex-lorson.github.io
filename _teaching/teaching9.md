@@ -1,14 +1,13 @@
 ---
-title: "Undergraduate course: Key methods in Geography"
+title: "Introduction to generalized linear modeling for linguists"
 collection: teaching
-type: "Undergraduate tutorial"
+type: "Summer School"
 permalink: /teaching/teaching9
-venue: "The University of Edinburgh, School of GeoSciences"
-date: 2021-02-01
-location: "Edinburgh, UK"
+venue: "Corpus Annotation and Data Analysis (CAnDA), The University of Goettingen"
+date: 2022-09-19
+location: "Goettingen, Germany"
 ---
-## Undergraduate course: Key methods in Geography
-Teaching assistant for statistics  
-The University of Edinburgh, United Kingdom  \\
-School of GeoSciences \\
-2020/2021 (Term 2)
+## Four seminars on generalized linear modeling for linguists
+By Alexandra Lorson and [Vinicius Macuch Silva](https://vini-macuch-silva.github.io/)
+At the University of Goettingen, Germany \\
+2022
