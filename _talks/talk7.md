@@ -1,4 +1,3 @@
-
 ---
 title: "Is quantifier interpretation susceptible to gestural influence?"
 collection: talks
