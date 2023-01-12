@@ -8,7 +8,7 @@ date: 2019-09-23
 location: "Edinburgh, UK"
 ---
 ## Honours course: Sociolinguistics
-Teaching assistant (Honours tutorial)  
+Teaching assistant (Honours Tutorial)  
 The University of Edinburgh, United Kingdom \\
 Department of Linguistics and English Language \\
 2019/2020 (Term 1)  
