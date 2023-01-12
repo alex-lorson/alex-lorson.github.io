@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate seminar: Introduction to Language Processing"
 collection: teaching
-type: "Undergraduate tutorial"
+type: "Undergraduate Tutorial"
 permalink: /teaching/teaching2
 venue: "University of Potsdam, Department of Linguistics"
 date: 2017-10-17
