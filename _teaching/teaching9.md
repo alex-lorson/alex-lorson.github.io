@@ -7,7 +7,7 @@ venue: "Corpus Annotation and Data Analysis (CAnDA), The University of Goettinge
 date: 2022-09-19
 location: "Goettingen, Germany"
 ---
-## Four seminars on generalized linear modeling for linguists
-By Alexandra Lorson and [Vinicius Macuch Silva](https://vini-macuch-silva.github.io/)
-At the University of Goettingen, Germany \\
-2022
+## Introduction to generalized linear modeling for linguists
+Alexandra Lorson and [Vinicius Macuch Silva](https://vini-macuch-silva.github.io/) \\
+Summer School: Corpus Annotation and Data Analysis (CAnDA)2022 \\
+The University of Goettingen, Germany \\
