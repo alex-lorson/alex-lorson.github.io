@@ -50,6 +50,9 @@ Grants & Awards
 
 Work experience
 ======
+* 2022/2023: Postdoctoral research fellow on the `Making Numbers Meaningful’ project led by Bodo Winter
+  * The University of Birmingham
+    
 * 2021: Open Research Facilitator
   * The University of Edinburgh (School of Philosophy, Psychology and Language Sciences)
 
