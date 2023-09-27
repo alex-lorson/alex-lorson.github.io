@@ -1,5 +1,5 @@
 ---
-title: "Epestimicity and communicative strategies"
+title: "Epistimicity and communicative strategies"
 venue: "journal article"
 collection: publications
 ---
