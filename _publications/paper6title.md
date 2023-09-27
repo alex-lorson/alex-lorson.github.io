@@ -1,7 +1,8 @@
 ---
-title: "How Intelligence Interviewees Mentally Identify Relevant Information"
+title: "Gesture size affects numerical estimates in quantifier comprehension"
 venue: "journal article"
 collection: publications
 ---
 
-Neequaye, D. A., & Lorson, A. (2023). [How Intelligence Interviewees Mentally Identify Relevant Information](https://royalsocietypublishing.org/doi/full/10.1098/rsos.230986). In Royal Society Open Science. 10:230986.
+
+Lorson, A., Macuch Silva, V., Hart, C. & Winter, B. (2023). Gesture size affects numerical estimates in quantifier comprehension. Journal of Experimental Psychology: Learning, Memory, and Cognition (submitted).
