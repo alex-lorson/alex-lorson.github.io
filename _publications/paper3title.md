@@ -1,9 +1,7 @@
 ---
 title: "How Intelligence Interviewees Mentally Identify Relevant Information"
 venue: "journal article"
-collection: In principle acceptance by Peer Community in Registered Reports
+collection: publications
 ---
 
-2021
-===
-Neequaye, D. A., & Lorson, A. (2021). [How Intelligence Interviewees Mentally Identify Relevant Information](https://psyarxiv.com/bpdn2/). In principle acceptance by Peer Community in Registered Reports
+Neequaye, D. A., & Lorson, A. (2023). [How Intelligence Interviewees Mentally Identify Relevant Information](https://royalsocietypublishing.org/doi/full/10.1098/rsos.230986). In Royal Society Open Science. 10:230986.
