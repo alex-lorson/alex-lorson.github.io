@@ -1,5 +1,5 @@
 ---
-title: "The strategic and epistemic properties of 'know'"
+title: "Epestimicity and communicative strategies"
 venue: "journal article"
 collection: publications
 ---
