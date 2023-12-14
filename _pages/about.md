@@ -12,5 +12,10 @@ Hi, my name is Alex and I am an assistant professor at the Faculty of Arts of [t
 
 Previously, I was a postdoctoral research fellow on the `Making Numbers Meaningful’ project led by [Bodo Winter](https://bodowinter.com/) at [the University of Birmingham](https://www.birmingham.ac.uk/index.aspx). I did my PhD in Linguistics at [the University of Edinburgh](https://www.ed.ac.uk/) supervised by [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/index.html) and [Chris Cummins](http://www.crcummins.com/).
 
+This year I teach the following courses at the RUG:
+- statistics
+- BA thesis seminar
+- quantitative methods
+- multimodal communication
 
 In my freetime, I love to [sketch](https://www.instagram.com/lordysart/) :)
