@@ -11,5 +11,5 @@ location: "Osnabrück, Germany"
 University Osnabrück, Germany \\
 10th International Conference of the German Cognitive Linguistics Association \\
 GCLA/Deutsche Gesellschaft für kognitive Linguistik - DGKL \\
-Pre-conferenc workshop (2 workshop days) \\
+Pre-conference workshop (2 workshop days) \\
 2-3 September 2024
