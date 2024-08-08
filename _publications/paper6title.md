@@ -6,4 +6,4 @@ collection: publications
 
 2024
 ===
-Lorson, A., Macuch Silva, V., Hart, C. & Winter, B. (2024). Gesture size affects numerical estimates in quantifier comprehension. Journal of Experimental Psychology: Learning, Memory, and Cognition. doi: 
+Lorson, A., Macuch Silva, V., Hart, C. & Winter, B. (2024). Gesture size affects numerical estimates in quantifier comprehension. Journal of Experimental Psychology: Learning, Memory, and Cognition.
