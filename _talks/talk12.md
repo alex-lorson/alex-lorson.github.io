@@ -2,7 +2,7 @@
 title: "Rounding and magnitude: Pragmatic halos are bigger for larger numbers"
 collection: talks
 type: "Poster"
-permalink: /talks/talk11
+permalink: /talks/talk12
 venue: "Annual Meeting of the Cognitive Science Society (CogSci), Bodo Winter, Greg Woodin, Alexandra Lorson"
 date: 2024
 location: "Rotterdam, the Netherlands"
